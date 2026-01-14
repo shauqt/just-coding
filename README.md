@@ -1,1 +1,1 @@
-A repositorary of small programs and projects I want to store as I experiment, learn, and create! 
+Many of these programs are small, unfinished, and not perfected. I just wanted to code and have some fun :)
